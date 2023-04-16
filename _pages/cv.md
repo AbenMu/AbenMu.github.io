@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Resume (short) [PDF](https://DrSGBhat.github.io/files/Bhat_Resume.pdf)
+Resume (short) [PDF](https://abenmu.github.io/files/Bhat_Resume.pdf)
 
-Curriculum Vitae (long) [PDF](https://DrSGBhat.github.io/files/Bhat_CV.pdf)
+Curriculum Vitae (long) [PDF](https://abenmu.github.io/files/Bhat_CV.pdf)
 
 
 Education

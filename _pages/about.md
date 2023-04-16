@@ -12,7 +12,7 @@ Hello and welcome to my website. My name is AbenMu blog and I am a Research Fell
 
 I received my Ph.D. in [Systems Engineering](https://poly.engineering.asu.edu/engineering/phd-systems-engineering/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University. There, I researched in the field of Robotics and Dynamics for Rehabilitation Application. I was advised by [Dr. Sangram Redkar](https://isearch.asu.edu/profile/1114748) and [Dr. Thomas Sugar](https://isearch.asu.edu/profile/227786) in the [Robotics and Dynamical Systems Group](https://labs.engineering.asu.edu/rads/). I received my Master of Science (MS) degree in [Mechanical Engineering](https://semte.engineering.asu.edu/mechanical-graduate/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University and my Bachelor of Engineering (BE) Degree in Mechanical Engineering from the [University of Mumbai](http://mu.ac.in/).
 
-<!-- <img align="middle" src="https://DrSGBhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>  -->
+<!-- <img align="middle" src="https://abenmu.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>  -->
 
 
 
