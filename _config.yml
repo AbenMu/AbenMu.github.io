@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "AbenMu blog"
 title_separator          : "-"
 name                     : &name "AbenMu blog"
-description              : &description "Research Fellow, Mayo Clinic"
+description              : &description "Unity3D"
 url                      : https://abenmu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DrSGBhat/abenmu.github.io"
@@ -82,16 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "AbenMu blog"
+  name             : "EastSu"
   avatar           : "abenmu512x512.jpg"
-  bio              : "Research Fellow,<br>
-                      Motion Analysis Laboratory,<br>
-                      Division of Orthopedic Surgery,<br>
-                      Mayo Clinic."
-  location         : "Rochester, MN, USA"
+  bio              : "Uniyt3D<br>
+                      游戏开发"
+  location         : "上海"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
-  email            : "AbenMu@gmail.com"
+  googlescholar    : " "
+  email            : "sxd618618@163.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -105,7 +103,7 @@ author:
   instagram        : "this_shutter"
   lastfm           :
   linkedin         : "AbenMu"
-  orcid            : "https://orcid.org/0000-0002-8989-0235"
+  orcid            : " "
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
